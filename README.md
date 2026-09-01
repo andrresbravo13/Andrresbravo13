@@ -1,28 +1,20 @@
 <div align="center">
 
-Andres Bravo
+**Andres Bravo**
 
-Applied health AI researcher · biomedical innovator · clinical systems thinker
+Applied Health AI · Data Science & Machine Learning · Healthcare Innovation
 
 I build at the point where clinical reality, human judgment, and
-machine intelligence have to agree.
-
-Website
-LinkedIn
-Email
+machine intelligence coincide.
 
 </div>
 
 What I work on
 
-• Surgical AI - computer vision, video annotation, dataset harmonization,
-and generalizable models for robotic thoracic surgery.
-• Mental health AI - LLM-enabled research tools, conversational systems,
-agent workflows, evidence synthesis, and clinically responsible evaluation.
-• Public health analytics - interpretable machine learning, youth health
-personas, privacy-aware analysis, equity checks, and knowledge translation.
-• Biomedical innovation - translating unmet clinical needs into prototypes,
-validation plans, regulatory strategies, and human-in-the-loop products.
+• Surgical AI - computer vision, video annotation, dataset harmonization, and generalizable models for robotic thoracic surgery.
+• Mental health AI - LLM-enabled research tools, conversational systems, agent workflows, evidence synthesis, and clinically responsible evaluation.
+• Public health analytics - interpretable machine learning, youth health personas, privacy-aware analysis, equity checks, and knowledge translation.
+• Biomedical innovation - translating unmet clinical needs into prototypes, validation plans, regulatory strategies, and human-in-the-loop products.
 
 Currently in orbit
 
@@ -67,14 +59,10 @@ Tools I reach for
 
 Signals along the way
 
-• First-author and collaborative work in thoracic surgical AI, including work
-presented at the Intuitive Surgical Data Science Symposium and ISMICS.
-• Master of Biomedical Innovation, McMaster University - 3.93 GPA and a
-scholarship recognizing community engagement in biomedical innovation.
-• Honours BSc in Bio-Medical Science, University of Guelph - graduated with
-distinction and four years on the Dean’s Honour List.
-• Case-competition results spanning an intramural win, a Top 20 global finish
-at Emory, and healthcare innovation pitch awards.
+• First-author and collaborative work in thoracic surgical AI, including work presented at the Intuitive Surgical Data Science Symposium and ISMICS.
+• Master of Biomedical Innovation, McMaster University - 3.93 GPA and a scholarship recognizing community engagement in biomedical innovation.
+• Honours BSc in Bio-Medical Science, University of Guelph - graduated with distinction and four years on the Dean’s Honour List.
+• Case-competition results spanning an intramural win, a Top 20 global finish at Emory, and healthcare innovation pitch awards.
 
 How I build
 
