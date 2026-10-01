@@ -1,98 +1,83 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
+  <img src="assets/profile-header-light.svg" alt="Andres M. Bravo — AMB monogram" width="100%">
+</picture>
 
-**Andres Bravo**
+# Andres M. Bravo
 
-Applied Health AI · Data Science & Machine Learning · Healthcare Innovation
+**Applied health AI · Surgical computer vision · Public health data science**
 
-I build at the point where clinical reality, human judgment, and
-machine intelligence coincide.
+I’m a biomedical AI researcher and innovation graduate based in Guelph, Ontario. I work across surgical video, population health data, and healthcare prototypes. My experience in frontline hospital operations keeps the work grounded in the people and workflows it needs to serve.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/andres-m-bravo/) · [Email](mailto:andres@thoughtforawhile.com) · [Public repositories](https://github.com/andrresbravo13?tab=repositories)
 
-What I work on
+## Current work
 
-• Surgical AI - computer vision, video annotation, dataset harmonization, and generalizable models for robotic thoracic surgery.
-• Mental health AI - LLM-enabled research tools, conversational systems, agent workflows, evidence synthesis, and clinically responsible evaluation.
-• Public health analytics - interpretable machine learning, youth health personas, privacy-aware analysis, equity checks, and knowledge translation.
-• Biomedical innovation - translating unmet clinical needs into prototypes, validation plans, regulatory strategies, and human-in-the-loop products.
+| Organization | Role and focus |
+| --- | --- |
+| **STRAIL · UPMC** | Surgical AI Research Lead — robotic thoracic surgery, segmentation, and research coordination. The lab moved from Tufts with Dr. Lana Schumacher. |
+| **Wellington-Dufferin-Guelph Public Health · AI4PH** | Data and Analytics Intern — exploratory youth health personas, reproducible analysis, and responsible AI. |
+| **Homewood Health · Guelph General Hospital** | Unit Clerk — emergency mental health and addictions services, clinical communication, and care logistics. |
 
-Currently in orbit
+**Recent experience:** Research Assistant in AI and Mental Health at AI-M, affiliated with the University of Toronto and Unity Health Toronto (**June–September 2026**), contributing to evidence synthesis and methodological reporting. Earlier surgical AI research included the Harvard Medical School / Massachusetts General Hospital collaboration.
 
-```text
-Unity Health x University of Toronto     AI & Mental Health research
-WDG Public Health x AI4PH                Population health data science
-STRAIL x Tufts Medical Center            Robotic surgery AI research
-Homewood Health x Guelph General         Frontline clinical operations
-```
+## What I work on
 
-Selected work
+- **Surgical AI:** video annotation, anatomy segmentation, dataset harmonization, and model generalizability in robotic thoracic surgery.
+- **Public health analytics:** mixed-data clustering, missingness analysis, equity review, privacy protection, and useful explanations of uncertainty.
+- **Mental health AI:** evidence synthesis and educational prototypes for LLM agent workflows.
+- **Biomedical innovation:** clinical needs assessment, patient navigation concepts, early prototypes, and validation planning.
 
-|Project                      |The problem                                                                              |My focus                                                                                                                       |
-|-----------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-|**Generalizable Surgical AI**|Models trained on one surgical domain often struggle in another.                         |Pulmonary vasculature segmentation, cross-lobe generalizability, annotation protocols, and clinical validation.                |
-|**WHY Youth Health Personas**|Population-level patterns must be useful without flattening people into labels.          |Mixed-data clustering, dimensionality reduction, equity and privacy review, governance, and interpretable communication.       |
-|**MedPal**                   |Oncology patients face fragmented information, scheduling, and system-navigation burdens.|A human-in-the-loop patient navigator built with Next.js, Supabase, and LLM APIs, with escalation and safety designed in.      |
-|**Thought for a while**      |Complex science and technology deserve more careful public thinking.                     |An evolving home for experiments, research notes, explainers, and work at the intersection of medicine and emerging technology.|
+## Selected work
 
-> Some health-data projects cannot be public. When code or data must stay inside
-> a protected environment, I share the methods, documentation, and lessons -
-> never sensitive information.
+| Project | What I’m exploring | Work and scope |
+| --- | --- | --- |
+| **[Surgical AI generalizability](https://meetings.ismics.org/program/2025/T20.cgi)** | How segmentation models transfer between lung lobes. | Pulmonary vasculature annotation and segmentation, cross-lobe evaluation, and feasibility research. |
+| **[WHY Youth Health Personas](https://phiz.ca/posts/2026-08-equity-ai-public-health-part-2/)** | How survey patterns can inform public health discussion. | Exploratory analysis of the **2026 survey cohort**, dimensionality reduction, clustering, and equity and privacy review. The link explains the public-facing methods. |
+| **[PsychSync](https://github.com/andrresbravo13/PsychSync)** | How structured agent workflows might support mental health coordination. | An **educational prototype** using Python and LangGraph/LangChain, with a separate demonstration interface containing simulated elements. |
+| **MedPal** | How oncology patients navigate fragmented information and care. | A **graduate MVP/prototype**, focused on patient journeys, conversational flows, and clinician oversight; **not clinically deployed**. |
+| **[Thought for a while](https://github.com/andrresbravo13/Thoughtforawhile)** | How to organize sustained learning in biomedical technology. | A self-directed learning and project hub with research briefs, experiment templates, and reproducibility and governance documentation. |
 
-Tools I reach for
+Some health-data work stays in protected environments. I share approved methods, public writing, and general lessons while protecting sensitive data and internal findings.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0B1F33?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-0B1F33?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-0B1F33?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-0B1F33?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Jupyter-0B1F33?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/R-0B1F33?style=flat-square&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Next.js-1B998B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Supabase-1B998B?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/OpenAI_API-1B998B?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Hugging_Face-1B998B?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1B998B?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Git-36454F?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-36454F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/CVAT-36454F?style=flat-square&logoColor=white" alt="CVAT" />
-</p>
+## Publications and presentations
 
-Signals along the way
+- **Published · JTCVS Open, 2026:** [*Transformers in surgical artificial intelligence: A domain-stratified, study-level narrative review*](https://pmc.ncbi.nlm.nih.gov/articles/PMC13131125/). First and corresponding author. **Volume 30, article 101597** · [DOI](https://doi.org/10.1016/j.xjon.2026.101597).
+- **Accepted / in production · Thoracic Surgery Clinics:** *AI-Enhanced Robot-Assisted Thoracic Surgery: Current Applications and Future Directions*. Corresponding author and project lead/writer; accepted **September 4, 2026**.
+- **Conference abstract · ISMICS 2025:** [*Expanding the Generalizability of an AI-based Model for Pulmonary Vasculature Segmentation in Robotic Lung Surgery*](https://meetings.ismics.org/program/2025/T20.cgi). Co-author; the work was presented at the annual scientific meeting.
+- **Upcoming · Women in Thoracic Surgery, November 5, 2026:** Accepted poster based on the *Thoracic Surgery Clinics* contribution.
+- **Published · Phiz, August 5, 2026:** [*Equity in AI for Public Health: Part 1 — Why Fairness Must Come First*](https://phiz.ca/posts/2026-08-equity-ai-public-health-part-1/).
+- **Published · Phiz, August 19, 2026:** [*Equity in AI for Public Health: Part 2 — From Clusters to Careful Personas*](https://phiz.ca/posts/2026-08-equity-ai-public-health-part-2/).
 
-• First-author and collaborative work in thoracic surgical AI, including work presented at the Intuitive Surgical Data Science Symposium and ISMICS.
-• Master of Biomedical Innovation, McMaster University - 3.93 GPA and a scholarship recognizing community engagement in biomedical innovation.
-• Honours BSc in Bio-Medical Science, University of Guelph - graduated with distinction and four years on the Dean’s Honour List.
-• Case-competition results spanning an intramural win, a Top 20 global finish at Emory, and healthcare innovation pitch awards.
+## Tools I use
 
-How I build
+**Data and analysis:** `Python` · `pandas` · `NumPy` · `scikit-learn` · `Jupyter`  
+**Research workflows:** `Git` · `GitHub` · `Kubeflow` · `CVAT`  
+**Agents and interfaces:** `LangGraph` · `LangChain` · `React` · `TypeScript`
 
-```text
-01  Start with the clinical or human problem.
-02  Make the assumptions, evidence, and failure modes visible.
-03  Keep a qualified human inside consequential decisions.
-04  Treat equity, privacy, safety, and reproducibility as design requirements.
-05  Translate the result so clinicians, researchers, builders, and communities
-    can challenge it - and use it.
-```
+## Education and recognition
 
-Beyond the terminal
+- **Master of Biomedical Innovation — McMaster University, 2025.** AI in healthcare focus; **3.93 GPA (A+)**. Received the **$5,000 CAD MBI Scholarship Recognizing Community Engagement in Biomedical Innovation**.
+- **Honours BSc, Bio-Medical Science — University of Guelph, 2024.** Graduated with distinction; **Dean’s Honour List every undergraduate semester**.
+- **Accepted into Amii’s [AI Career Accelerator Program](https://www.amii.ca/research-talent/talent-development/ai-career-accelerator), 2026.**
+- **Case competitions:** First place, Mary Heersink intramural global health case competition; second place, Partners in Health Canada Global Health Case Competition; **Top 20**, Emory Morningside Global Health Case Competition.
 
-I am a Cuban-Italian-Canadian based in Guelph, Ontario. Away from research and
-product work, you will usually find me strength training, running, cycling,
-playing soccer, mentoring students, or thinking for a while about the next
-thing worth building.
+## How I build
 
-────────
+1. Start with a clinical or human problem.
+2. Make assumptions, evidence, and failure modes visible.
+3. Keep qualified people involved in consequential decisions.
+4. Build equity, privacy, safety, and reproducibility into the workflow.
+5. Explain the result so clinicians, researchers, and communities can question it and use it responsibly.
 
-<div align="center">
+## Beyond the terminal
 
-Interested in responsible health AI, surgical intelligence, or a strange
-problem that sits between disciplines?
+I’m Cuban-Italian-Canadian. Away from research, you’ll usually find me strength training, running, cycling, playing soccer, mentoring students, or thinking for a while about the next thing worth building.
 
-Explore my work ·
-Connect on LinkedIn ·
-Start a conversation
+---
 
-<sub>Build what deserves to be trusted.</sub>
+Open to collaborations in **responsible health AI, surgical computer vision, public-health analytics, and clinically grounded digital-health research**.
 
-</div>
+[Explore my work](https://github.com/andrresbravo13?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/andres-m-bravo/) · [Start a conversation](mailto:andres@thoughtforawhile.com)
+
+<sub>Updated October 1, 2026.</sub>
